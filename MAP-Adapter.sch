@@ -8,8 +8,8 @@ encoding utf-8
 Sheet 1 1
 Title "MAP-Adapter.sch"
 Date "16 jun 2014"
-Rev ""
-Comp ""
+Rev "0.1-alpha"
+Comp "git: f1f40c39aa"
 Comment1 ""
 Comment2 ""
 Comment3 ""
